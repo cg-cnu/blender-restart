@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://download.blender.org/institute/logos/blender-socket.png" height="100px"/>
   <h1 align="center">Restart</h1>
+  <h4 align="center">Simple addon to restart current blender file</h4>
   <br>
 </p>
-
-### Description:
-
-Simple addon to restart blender with the same file
-
 
 ### Issue/Feedback:
 
@@ -15,4 +11,4 @@ log them in the [github issues](https://github.com/cg-cnu/blender-restart/issues
 
 ### Like it?:
 
-Please :star: this repo.
+Please ⭐ this repo.
